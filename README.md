@@ -29,6 +29,3 @@ I built a custom Convolutional Neural Network (CNN) optimized for the small 48x4
 * **Final Accuracy:** **64.70%**
 * The model balances efficiency with performance, proving that custom architectures can outperform pre-trained models (like EfficientNet) on small, grayscale images.
 
-## 👨‍💻 Author
-Neha Bhangui  
-*Student*
